@@ -12,4 +12,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-# Live Server: https://productbuyandreview.netlify.app/
+# Live At: https://productbuyandreview.netlify.app/
